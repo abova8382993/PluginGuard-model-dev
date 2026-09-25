@@ -1,0 +1,14 @@
+{
+  "version": "2.2.0",
+  "model_name": "contrastive_ast_ngram_hash_8bit",
+  "total_clean_chunks": 20542,
+  "total_malware_chunks": 2282,
+  "dim": 384,
+  "threshold": 0.5577356219291687,
+  "mean_sim": 0.7224507927894592,
+  "std_sim": 0.08685638755559921,
+  "malware_threshold": 0.78,
+  "min_contrast_diff": 0.04,
+  "quantization": "uint8_linear",
+  "scale": 255.0
+}
