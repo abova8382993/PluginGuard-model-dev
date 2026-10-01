@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
+  "version": "2.3.1",
   "model_name": "contrastive_ast_ngram_hash_8bit",
   "total_clean_chunks": 22665,
   "total_malware_chunks": 6187,
