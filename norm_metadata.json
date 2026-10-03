@@ -2,11 +2,11 @@
   "version": "2.5.0",
   "model_name": "contrastive_ast_ngram_hash",
   "total_clean_chunks": 36869,
-  "total_malware_chunks": 2994,
+  "total_malware_chunks": 5558,
   "dim": 384,
   "threshold": 0.6453615427017212,
-  "mean_sim": 0.8339226841926575,
-  "std_sim": 0.09359141439199448,
+  "mean_sim": 0.8338802456855774,
+  "std_sim": 0.09360971301794052,
   "malware_threshold": 0.78,
   "min_contrast_diff": 0.04
 }
