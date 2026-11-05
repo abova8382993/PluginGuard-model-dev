@@ -2,7 +2,7 @@
   "version": "3.1.0",
   "model_name": "contrastive_ast_ngram_hash_8bit",
   "total_clean_chunks": 34981,
-  "total_malware_chunks": 8334,
+  "total_malware_chunks": 8902,
   "dim": 384,
   "threshold": 0.7800670266151428,
   "mean_sim": 0.8866808414459229,
